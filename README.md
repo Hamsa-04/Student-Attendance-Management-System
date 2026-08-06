@@ -1,31 +1,24 @@
-# 📚 Student Attendance Management System
+# 🎓 Student Attendance Management System
 
-## 📖 Overview
+## Features
 
-The Student Attendance Management System is a web-based application developed to simplify and automate the process of managing student attendance. It helps maintain attendance records digitally, reducing manual work and improving accuracy.
+- Admin Login
+- Add Student
+- View Students
+- Edit Student
+- Delete Student
+- Mark Attendance
+- View Attendance
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - PHP
 - MySQL
 - HTML
 - CSS
-- JavaScript
+- Bootstrap
 - XAMPP
 
-## 🎯 Objectives
+## Developed By
 
-- Digitize attendance management
-- Reduce manual record keeping
-- Store attendance records securely
-- Improve attendance tracking
-
-## 📄 Repository Status
-
-This repository currently contains the project documentation.
-
-> **Note:** The original source code was developed as part of my academic coursework and is currently unavailable. I am rebuilding the project and will upload the complete source code, database, and documentation soon.
-
-## 👩‍💻 Author
-
-**Hamsa H V**
+Hamsa H V
